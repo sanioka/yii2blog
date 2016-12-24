@@ -9,3 +9,6 @@ composer.phar
 
 # phpstorm project files
 .idea
+
+# composer.lock file
+composer.lock
